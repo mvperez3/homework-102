@@ -1,0 +1,21 @@
+body{
+background-image: url('.../media/images/purple background.jpg');
+
+}
+
+h1{
+text-align: center;
+}
+
+
+
+
+p {
+    text-align:center;
+}
+
+h3{
+background-color: black;
+color:white;
+text-align:center;
+}
